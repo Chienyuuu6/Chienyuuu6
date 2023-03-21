@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 This is Chelsea :-)
+I created this profile while eating oreos!
 
 <!--
 **Chienyuuu6/Chienyuuu6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
